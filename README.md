@@ -141,9 +141,6 @@ Contributions are welcome! To contribute:
 4. Push to your branch: `git push origin feature-name`.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute this game as per the terms of the license.
 
 ---
 
